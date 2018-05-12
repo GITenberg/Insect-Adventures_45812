@@ -1,0 +1,66 @@
+_repo: Insect-Adventures_45812
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goldberg, Elias
+    birthdate: 1886
+    deathdate: 1978
+    gutenberg_agent_id: '43474'
+    url: http://www.gutenberg.org/2009/agents/43474
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixera de
+    - Teixeira de Mattos, Alexander Louis
+    - Mattos, Alexander Teixeira de
+    - De Mattos, Alexander Teixeira
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: archival
+  image_path: 45812-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Zimm, Louise Hasbrouck
+    aliases:
+    - Zimm, Louise Seymour Hasbrouck
+    - Hasbrouck, Louise Seymour
+    birthdate: 1883
+    gutenberg_agent_id: '43473'
+    url: http://www.gutenberg.org/2009/agents/43473
+  - agent_name: Fabre, Jean-Henri
+    aliases:
+    - Fabre, J. Henri
+    - Fabre, Jean Henri Casimir
+    - Fabre, Henri
+    birthdate: 1823
+    deathdate: 1915
+    gutenberg_agent_id: '735'
+    url: http://www.gutenberg.org/2009/agents/735
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Henri_Fabre
+description: ''
+gutenberg_issued: '2014-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45812'
+  lccn: '17031000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiders'
+- !lcsh 'Insects'
+- !lcc 'QL'
+tableOfContents: My first pond -- The caddis-worm -- The mason-bees -- Bees, cats
+  and red ants -- The mining bees -- The leaf-cutting bees -- The cotton-bees and
+  resin-bees -- The hairy sand-wasp -- The wasp and the cricket -- The fly-hunting
+  wasp -- Parasites -- Fly scavengers -- The pine caterpillar -- The cabbage caterpillar
+  -- The great peacock moths -- The truffle-hunting beetle -- The boy who loved insects
+  -- The banded spider -- The tarantula -- The clotho spider -- The spiders' telegraph-wire
+  -- The crab spider -- The labyrinth spider -- The building of a spider's web --
+  The geometry of a spider's web.
+title: Insect Adventures
+url: http://www.gutenberg.org/ebooks/45812
